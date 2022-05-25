@@ -17,11 +17,9 @@ html,body{
     width: 110px;
     left: 100px;
     margin-left:-75px;
-
 }
 
 #jugador-cartas, #computador-cartas{
     height: 150px;
-    
 }
 
